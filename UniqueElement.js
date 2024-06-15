@@ -1,4 +1,4 @@
-let name = 'hello';
+let name = 'helloh';
 
 function uniqueElement(name) {
 
@@ -25,4 +25,4 @@ function uniqueElement(name) {
     return uniqueElements
 }
 
-console.log(uniqueElement(name));
+console.log(uniqueElement(name));  // [e, o]
